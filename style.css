@@ -16,39 +16,49 @@ header{
    
 }
 
-.initial-content{
-    padding: 10px 5px 10px 5px;
-    /* align-items: center; */
-    text-align: center;
-    /* vertical-align: middle; */
+.container-initial{
+    position: relative;
+    box-sizing: border-box;
+    height: 500px;
+    padding: 10px 5px 10px 5px; 
 }
 
 .box_Photo{
-    width: 25%;
-    margin: 1rem;
-    display: inline-block;
+    display: inline;
+    float: left;
+    box-sizing: border-box;
+    width: 26%;
+    margin-top: 3rem;
+    margin-left: 5rem;
+   
     
 }
 
 .photo {
-    height: 18rem;
-    width: 17rem;
+    height: 80%;
+    width: 80%;
     border-radius: 0% 30%;
     border: solid 0.3rem #5a189a;
+
+    padding: 1rem;
+    background-color: #5a189a;
 }
 
 .section_presentation { 
-    display: inline-block;
-    width: 65%;
-    height: 50%;
-    margin-left: 1rem;
+    overflow: auto;
+    height: 60%;
+    width: auto;
+    margin-top: 6rem;
+    margin-right: 9rem;
     line-height: 2;
     border: 2px solid #5a189a;
-    border-radius: 5rem;
+    border-radius: 4rem;
 }
 
 .text-presentation{
-    text-align: center;
+    text-align: justify;
+    padding: 18px 2px;
+    margin-left: 19px;
 }
 
 
