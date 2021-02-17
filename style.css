@@ -11,12 +11,25 @@ body {
     font-size: 18px;
 }
 
+a {
+    text-decoration: none;
+}
+
+strong,
+em {
+    color: #3ccb49;
+}
+
+ul {
+    list-style: none;
+}
+
 header{
     
 }
 
 .menu ul{
-    background-color: #1b222cfb;
+    background-color: #151a22fb;
     text-align: center;
     padding: 1.5rem 0;  
 }
@@ -44,11 +57,9 @@ header{
 .box-name{
     text-align: center;
     margin: auto;
-  
-    
-  
-
+    padding-top: 2rem;
 }
+
 .box-name h1 {
     font-family: 'Rubik', sans-serif;
     font-weight: bold;
@@ -56,10 +67,10 @@ header{
 }
 
 .container-initial{
-    position: relative;
     box-sizing: border-box;
-    height: 500px;
+    height: auto;
     padding: 10px 5px 10px 5px; 
+    margin-bottom: 10rem;
 }
 
 .box_Photo{
@@ -72,8 +83,8 @@ header{
 }
 
 .photo {
-    height: 80%;
-    width: 80%;
+    height: 65%;
+    width: 65%;
     border-radius: 0% 30%;
     border: solid 0.3rem #5a189a;
 
@@ -88,35 +99,39 @@ header{
     margin-top: 6rem;
     margin-right: 9rem;
     line-height: 2;
-    border: 0.3rem solid #5a189a;
+    border: 1rem solid #5a189a;
     border-radius: 4rem;
 }
 
-.text-presentation{
+.section_presentation p{
     text-align: justify;
     padding: 18px 2px;
     margin-left: 19px;
+    
+
 }
 
-
-a {
-    text-decoration: none;
-    /* color: #3ccb49; */
+.about{
+    display: inline-block;
+    background-color: #151a22fb;
 }
 
+.about div {
+    padding: 10rem 15rem;
+    /* margin: 0 10rem; */
 
+}
+ 
 
+.about div p {
+    text-align: center;
+    background-color: #4b1581;
+    margin-bottom: 3rem;
+    padding: 5rem 8rem;
+    line-height: 2.5rem;
+    border-radius: 85%;
+}
 
-
-
-
-strong,
-em {
+.about div p a {
     color: #3ccb49;
-}
-
-
-
-ul {
-    list-style: none;
 }
