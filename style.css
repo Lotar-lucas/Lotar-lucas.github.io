@@ -13,6 +13,7 @@ body {
 
 a {
     text-decoration: none;
+    color: #3ccb49;
 }
 
 strong,
@@ -36,21 +37,23 @@ header{
 
 .menu ul li {
     display: inline;
-    margin-left: 4rem;
+    margin-left: 5rem;
     margin-top: 4rem;
    
 }
 
 .menu ul li a {
+    width: 10rem;
     padding: 0.9rem 1rem;
     display: inline-block;
     color: #dbd6d1;
     background-color: #5a189a;
-    border-radius: 45%;
+    border-radius: 4rem;
 }
 
 .menu ul li a:hover{
     background-color: #22b42e;
+    color: #5a189a;
 }
 
 
@@ -64,6 +67,7 @@ header{
     font-family: 'Rubik', sans-serif;
     font-weight: bold;
     font-size: 3.5rem;
+    color: #3ccb49;
 }
 
 .container-initial{
@@ -87,28 +91,25 @@ header{
     width: 65%;
     border-radius: 0% 30%;
     border: solid 0.3rem #5a189a;
-
     padding: 1rem;
     background-color: #5a189a;
 }
 
 .section_presentation { 
     overflow: auto;
-    height: 60%;
     width: auto;
-    margin-top: 6rem;
+    margin-top: 3rem;
     margin-right: 9rem;
-    line-height: 2;
+    line-height: 3.5rem;
     border: 1rem solid #5a189a;
     border-radius: 4rem;
 }
 
-.section_presentation p{
+.section_presentation p {
+    font-size: 1.3rem;
     text-align: justify;
     padding: 18px 2px;
-    margin-left: 19px;
-    
-
+    margin: 1.5rem;
 }
 
 .about{
@@ -125,6 +126,7 @@ header{
 
 .about div p {
     text-align: center;
+    font-size: 1.3rem;
     background-color: #4b1581;
     margin-bottom: 3rem;
     padding: 5rem 8rem;
