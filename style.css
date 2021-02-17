@@ -13,7 +13,46 @@ body {
 
 header{
     
+}
+
+.menu ul{
+    background-color: #1b222cfb;
+    text-align: center;
+    padding: 1.5rem 0;  
+}
+
+.menu ul li {
+    display: inline;
+    margin-left: 4rem;
+    margin-top: 4rem;
    
+}
+
+.menu ul li a {
+    padding: 0.9rem 1rem;
+    display: inline-block;
+    color: #dbd6d1;
+    background-color: #5a189a;
+    border-radius: 45%;
+}
+
+.menu ul li a:hover{
+    background-color: #22b42e;
+}
+
+
+.box-name{
+    text-align: center;
+    margin: auto;
+  
+    
+  
+
+}
+.box-name h1 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
 }
 
 .container-initial{
@@ -30,8 +69,6 @@ header{
     width: 26%;
     margin-top: 3rem;
     margin-left: 5rem;
-   
-    
 }
 
 .photo {
@@ -64,17 +101,12 @@ header{
 
 a {
     text-decoration: none;
-    color: #3ccb49;
+    /* color: #3ccb49; */
 }
 
 
 
-.name {
-    font-family: 'Rubik', sans-serif;
-    font-weight: bold;
-    font-size: 3.5rem;
-    text-align: center;
-}
+
 
 
 
