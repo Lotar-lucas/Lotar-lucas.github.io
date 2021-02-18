@@ -26,10 +26,19 @@ ul {
     list-style: none;
 }
 
+h2{
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: #3ccb49;
+    margin-left: 19rem;
+    margin-top: 5rem;
+}
+
 
 
 .menu ul{
-    background-color: #151a22fb;
+    background-color: #151a22fb; 
     text-align: center;
     padding: 1.5rem 0;  
 }
@@ -119,8 +128,11 @@ ul {
     background-color: #151a22fb;
 }
 
-.about div {
-    padding: 10rem 15rem;
+
+
+
+.about-text{
+    padding: 2rem 15rem 2rem 15rem;
 }
  
 
@@ -136,4 +148,15 @@ ul {
 
 .about div p a {
     color: #3ccb49;
+}
+
+ .Projects {}
+
+.skills{}
+
+.skills{}
+
+
+.footer{
+    background-color: #151a22fb;
 }
