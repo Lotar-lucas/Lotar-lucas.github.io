@@ -128,9 +128,6 @@ h2{
     background-color: #151a22fb;
 }
 
-
-
-
 .about-text{
     padding: 2rem 15rem 2rem 15rem;
 }
@@ -150,13 +147,25 @@ h2{
     color: #3ccb49;
 }
 
- .Projects {}
+ .Projects {
+     display: inline-block;   
+ }
 
-.skills{}
+ .Projects div div{
+     float: left;
+     background-color: indigo;
+     padding: 7rem;
+     margin-left: 5rem;
+     margin-top: 2rem;
+ }
 
-.skills{}
+
+
+.skills{
+    background-color: #151a22fb;
+}
 
 
 .footer{
-    background-color: #151a22fb;
+    
 }
