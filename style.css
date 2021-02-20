@@ -31,7 +31,7 @@ h2{
     font-weight: bold;
     font-size: 3.5rem;
     color: #3ccb49;
-    margin-left: 19rem;
+    margin-left: 22%;
     margin-top: 5rem;
 }
 
@@ -154,26 +154,70 @@ h2{
 
  .Projects div div{
      float: left;
-     background-color: indigo;
+     background-color: #4b1581;
      padding: 7rem;
      margin-left: 5rem;
      margin-top: 2rem;
+     margin-bottom: 6rem;
      border-radius: 15%;
  }
 
 
 
 .skills{
+    width: 100%;
     background-color: #151a22fb;
+    display: inline-block;
+}
+
+.skills h3{
+    font-size: 1.5rem;
+    padding-top: 3%;
 }
 
 
+.skills div {
+    width: 27%;
+    float: left;
+    background-color: #4b1581;
+    border-radius: 15%;
+    margin-left: 15%;
+    margin-bottom: 6rem;
+    margin-top: 2rem;
+    text-align: center;
+    overflow-x: auto; 
+}
+
+.skills div ul{
+    display: inline-block;
+    padding: 5%;
+ }
+
+.skills div ul img{
+    width: 100%;
+    height: 100%; 
+}
+
+.skills div ul li{
+    width: 25%;
+    float: left;
+    margin:10% 5% 0% 15%;
+    
+}
+
+.skills div ul li img p{
+    width: 100%;
+}
+
+
+
 .footer{
+
 }
 
 .footer h2{
     padding: 0;
-    margin-left:19rem; 
+    margin-left:22%rem; 
     margin-top: 5rem;
 }
 
