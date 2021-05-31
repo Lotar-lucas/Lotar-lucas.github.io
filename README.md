@@ -2,8 +2,8 @@
 
 #### Tudo bem com você?
 
-#### Eu sou Lucas Lotar tenho 25 anos, sou gaucho e moro em Alvorada-RS, alguem que gosta de complexidade e de estudar :alien:
-#### Faço parte da escola [Trybe](https://www.betrybe.com/) onde aprendo hard & soft skills, o foco dela é muita prática e muita mão no código.
+##### Eu sou Lucas Lotar tenho 25 anos, sou gaucho e moro em Alvorada-RS, alguem que gosta de complexidade e de estudar :alien:
+##### Faço parte da escola [Trybe](https://www.betrybe.com/) onde aprendo hard & soft skills, o foco dela é muita prática e muita mão no código.
 
 ##### Curso Análise e Desenvolvimento de Sistemas na [Faculdades QI Brasil - FAQI](https://qi.edu.br/) e já cursei Banco de dados, Engenharia de software. Gestão de T.I, entre outras.
 
@@ -12,13 +12,21 @@
 ##### Assim como 99% da pessoas desenvolvedoras sou viciado em café. :coffee:
 
 # Hobbies
-* Ouvir música
-* Ler
-* Séries e filmes
+* :headphones: Ouvir música
+* :book: Ler
+* :movie_camera: Séries e filmes
 * :video_game: Video Games
-* Atividade física
+* :runner: Atividade física
 
 # :computer: Tecnologias & Ferramentas :wrench:
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lotar-lucas)](https://github.com/Lotar-lucas/github-readme-stats)
