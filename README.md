@@ -2,11 +2,11 @@
 
 ###### Tudo bem com você?
 
-##### Eu sou Lucas Lotar tenho 25 anos sou gaucho e moro em Alvorada-RS, alguem que gosta de complexidade e de estudar :alien:
+##### Eu sou Lucas Lotar tenho 25 anos, sou gaucho e moro em Alvorada-RS, alguem que gosta de complexidade e de estudar :alien:
 
-##### Faço parte da escola Trybe onde aprendo hard & soft skills, o foco dela é muita prática e muita mão no código.
+##### Faço parte da escola [Trybe](https://www.betrybe.com/) onde aprendo hard & soft skills, o foco dela é muita prática e muita mão no código.
 
-##### Curso Análise e Desenvolvimento de Sistemas na Faculdades QI Brasil - FAQI e já cursei Banco de dados, Engenharia de software. Gestão de T.I, entre outras.
+##### Curso Análise e Desenvolvimento de Sistemas na [Faculdades QI Brasil - FAQI](https://qi.edu.br/) e já cursei Banco de dados, Engenharia de software. Gestão de T.I, entre outras.
 
 ##### Meu foco hoje é desenvolvimento web full stack, quero gerar valor para empresas e pessoas atráves de linhas de código e softwares.
 
