@@ -1,4 +1,9 @@
-# Olá 👋 Eu sou Lucas Lotar 
+# Olá Visitante 👋 
+
+###### Eu sou Lucas Lotar tenho 25 anos sou gaucho e moro em Alvorada-RS
+
+Faço parte da escola Trybe 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lotar-lucas)](https://github.com/Lotar-lucas/github-readme-stats)
 
